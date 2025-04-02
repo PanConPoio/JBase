@@ -23,7 +23,7 @@ Sigue estos pasos para ejecutar el programa en tu máquina:
 
 1️⃣ Clona este repositorio en tu computadora:
    ```sh
-   git clone https://github.com/tu_usuario/JBase.git
+   git clone https://github.com/PanConPoio/JBase.git
    ```
 
 2️⃣ Abre el proyecto en tu **IDE** preferido o en una terminal.
