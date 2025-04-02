@@ -50,9 +50,14 @@ Sigue estos pasos para ejecutar el programa en tu máquina:
 Cuando ejecutes el programa, verás en la consola un mensaje de bienvenida y la ejecución de las funciones predefinidas. Puedes modificar el archivo `Base.java` para añadir nuevas funcionalidades y adaptarlo a tus necesidades.
 
 ```
-¡Bienvenido a JBase!
-Ejecutando funciones...
-Resultado: 42
+===== SISTEMA DE GESTIÓN DE COTIZACIONES =====
+Usuario actual: Administrador (ADMIN)
+1. Gestión de Usuarios
+2. Gestión de Clientes
+3. Gestión de Empleados
+4. Gestión de Cotizaciones
+0. Salir
+Seleccione una opción:
 ```
 
 ## 🤝 Contribuciones
